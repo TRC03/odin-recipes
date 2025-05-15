@@ -1,1 +1,2 @@
 # odin-recipes
+This is a personal project used to help gain a better understanding od web development and design from a foundational level. The purpose of this project is to build a simple website showcasing a few recipes.
